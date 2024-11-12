@@ -12,8 +12,8 @@
 | Voir ses propres commandes            | ✅   | ❌      |
 | Modifier ses propres commandes        | ✅   | ❌      |
 | Confirmer une commande                | ✅   | ❌      |
-| **Gestion des produits**              |      |        |
+| **Gestion des produits**              |      |         |
 | Voir les produits                     | ✅   | ✅      |
 | Commander un produit (si stock > 0)   | ✅   | ❌      |
-| **Autorisations spécifiques**         |      |        |
+| **Autorisations spécifiques**         |      |         |
 | Accéder aux informations de livraison | ✅   | ❌      |
